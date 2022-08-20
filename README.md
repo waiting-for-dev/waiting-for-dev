@@ -8,4 +8,6 @@ In the future, you can expect me to try to leverage this idea to build something
 
 I work at a great place, [Nebulab](https://nebulab.com/), helping to build [Solidus](https://solidus.io/), an open-source e-commerce platform for developers.
 
+You can [sponsor my OS work](https://github.com/sponsors/waiting-for-dev) :heart: :heart:
+
 https://waiting-for-dev.github.io/
