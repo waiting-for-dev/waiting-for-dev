@@ -6,8 +6,6 @@ My mission in open source is to make that vision more mainstream. I'm currently 
 
 In the future, you can expect me to try to leverage this idea to build something with a positive social impact, as I think that should be technology's primary goal. You could also see me building some tools for developers probably in purely functional programming languages like Elixir or Haskell.
 
-I work at a great place, [Nebulab](https://nebulab.com/), helping to build [Solidus](https://solidus.io/), an open-source e-commerce platform for developers.
-
 You can [sponsor my OS work](https://github.com/sponsors/waiting-for-dev) :heart: :heart:
 
 https://waiting-for-dev.github.io/
